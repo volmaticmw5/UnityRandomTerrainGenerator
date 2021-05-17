@@ -1,0 +1,19 @@
+{
+  "name": "random.terrain.com.volmaticmw5.rndtgen",
+  "version": "1.0.0",
+  "displayName": "Random Terrain Generator",
+  "description": "A random terrain generation tool",
+  "unity": "2020.4",
+  "unityRelease": "0b5",
+  "keywords": [
+    "random",
+    "terrain",
+    "generator"
+  ],
+  "author": {
+    "name": "Jo\u00e3o Monteiro",
+    "email": "volmaticmw5@gmail.com",
+    "url": "https://github.com/volmaticmw5"
+  },
+  "type": "tool"
+}
